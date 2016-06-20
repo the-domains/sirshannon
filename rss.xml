@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[sirshannon]]></title>
         <description><![CDATA[sirshannon]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/sirshannon/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Dec 2015 17:36:02 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 20 Jun 2016 19:41:28 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sirshannon/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[I had to buy a sexy half-naked pinup at HeroesCon this weekend. ]]></title>
+            <description><![CDATA[<article><h1>I had to buy a sexy half-naked pinup at HeroesCon this weekend. </h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5ba4711312c3f0f8b188d5105710a6f3/croprotate.jpg?cropheight=2705&cropwidth=3429&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F99f2488e-58d0-40e8-b16e-9a026b95d52c.jpg&x=0&y=0"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/99f2488e-58d0-40e8-b16e-9a026b95d52c.jpg</link>
+            <guid isPermaLink="false">88079098-9c54-4607-9f36-81bbd0c61bce</guid>
+            <pubDate>Mon, 20 Jun 2016 19:41:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[sirshannon.com v8]]></title>
-            <description><![CDATA[<article><h1>sirshannon.com v8</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3c873ce2-5ead-4a40-8c3a-7fe96bf89867.jpg"></article>]]></description>
-            <link>undefinedsirshannoncom-v8/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3c873ce2-5ead-4a40-8c3a-7fe96bf89867.jpg">]]></description>
+            <link>https://thegrid.ai/sirshannon/sirshannoncom-v8/index.html</link>
             <guid isPermaLink="false">5c39f1cb-5384-4c18-80f5-3f06ca8cf9ad</guid>
             <pubDate>Sun, 20 Dec 2015 17:35:58 GMT</pubDate>
         </item>
